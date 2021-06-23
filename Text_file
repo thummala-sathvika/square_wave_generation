@@ -1,0 +1,1 @@
+Use counter 1 in mode 2 and after 10 number of counts on TL1, generate a Square waveform of 1 KHz on P1.2 by using Timer0 in mode 1, and show the counts in TL1 on port P2. Do this using assembly language.
